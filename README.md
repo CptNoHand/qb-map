@@ -1,5 +1,5 @@
 # qb-map
-qb-map is my first little resource for QBFramework
+qb-map is my first little resource for QBFramework - a useable item to show Blips on the map
 
 # Installation
 just copy qb-map folder into your [qb] folder and edit the config.lua
